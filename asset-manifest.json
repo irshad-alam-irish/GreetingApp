@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/GreetingApp/static/css/main.cd80e79d.css",
+    "main.js": "/GreetingApp/static/js/main.72e3b8db.js",
+    "static/js/787.b6fb1693.chunk.js": "/GreetingApp/static/js/787.b6fb1693.chunk.js",
+    "static/media/bacha.png": "/GreetingApp/static/media/bacha.b7aa835a1a1a73d32a20.png",
+    "static/media/scooter.png": "/GreetingApp/static/media/scooter.0fb2828794eea0a603c2.png",
+    "static/media/google.png": "/GreetingApp/static/media/google.0b50af2fbb8c1e8ca23e.png",
+    "index.html": "/GreetingApp/index.html",
+    "main.cd80e79d.css.map": "/GreetingApp/static/css/main.cd80e79d.css.map",
+    "main.72e3b8db.js.map": "/GreetingApp/static/js/main.72e3b8db.js.map",
+    "787.b6fb1693.chunk.js.map": "/GreetingApp/static/js/787.b6fb1693.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd80e79d.css",
+    "static/js/main.72e3b8db.js"
+  ]
+}

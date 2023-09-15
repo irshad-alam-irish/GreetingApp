@@ -1,0 +1,79 @@
+
+#greetings{
+    height: 100vh;
+    width: auto;
+    display: flex;
+}
+ .div11{
+    height:100%;
+    width: 65%;
+   
+    
+    
+}
+.greet1{
+
+    font-size: 100px;
+    font-family: 'Black Ops One', cursive;
+    height: 90%;
+    width:100%;
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    margin-left: 30px;
+    color: tomato;
+    word-spacing: 10px;
+    
+    
+}
+.name1{
+     color:blue;
+}
+.congo1{
+     color: green;
+}
+.irish1{
+     color:#46aeae;
+}
+
+.greet1>h1{
+    line-height: 2;
+}
+
+
+
+.div22{
+    height: 100%;
+    width: 35%;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+
+#bachha{
+    height: 90%;
+    width: auto;
+}
+@media(width<=415px){
+    body{
+        margin: 0px !important;
+        padding: 0px !important;
+    }
+   .div11{
+    height: auto;
+    width: 370;
+   }
+   .div22{
+    width: 0px;
+    
+   }
+   #bachha{
+    opacity: 0.2;
+    height: auto;
+    width: 90vw;
+    margin-left: -60px;
+   }
+   
+   
+}
